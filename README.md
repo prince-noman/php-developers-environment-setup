@@ -18,7 +18,7 @@
 3. PHP Namespace Resolver
 4. Laravel Blade Snippets
 5. ES Lint
-6. Theme Night Owl ( Or Any theme you like)
+6. Theme: "Night Owl" ( Or Any theme you like)
 7. Material Icon Theme
 8. Prettier - Code formatter
 9. Auto Close Tag
