@@ -1,11 +1,11 @@
-<img src="![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
 # PHP Developer's Environment Setup
 
 > #### Essential Softwares:
 
 1. XAMPP ( Download Link: https://www.apachefriends.org/download.html )
-   or, MAMP ( Specially for Mac) ( Download Link: https://www.mamp.info/en/downloads/)
+   <br> or, MAMP ( Specially for Mac) ( Download Link: https://www.mamp.info/en/downloads/)
 2. Node.js (LTS version) ( Download Link: https://nodejs.org/en/download/ )
 3. Composer ( Download Link: https://getcomposer.org/download/ )
 4. Git ( Download Link: https://git-scm.com/downloads )
