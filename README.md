@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
 
-# PHP Developer's Environment Setup
+# PHP & Laravel Developer's Environment Setup
 
 > #### Essential Softwares:
 
@@ -15,11 +15,13 @@
 5. Visual Studio Code (Free Code Editor) ( Download Link: https://code.visualstudio.com/download )
 6. PHPStorm (Paid Code Editor) ( Download Link: https://www.jetbrains.com/phpstorm/download )
 
-> #### VS Code Extensions:
+### If you are going to use PHPStorm as your code editor then no need to install any plugin as PHPStorm ships with built-in support for PHP and Laravel.
+
+> ### VS Code Extensions:
 
 > Note: If you don't want to install the extentions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
 
-| SL No: | Plugin                                      |
+| SL No: | Plugins                                     |
 | ------ | ------------------------------------------- |
 | 1      | PHP Intelephense                            |
 | 2      | PHP DocBlocker                              |
@@ -43,7 +45,7 @@
 | 20     | Material Icon Theme for Icons               |
 | 21     | Prettier - Code formatter                   |
 
-> #### Fonts for Developers:
+> ### Fonts for Developers:
 
 1. Operator Mono (Download Link: https://github.com/keyding/Operator-Mono/archive/refs/heads/master.zip )
 2. Fira Code ( Download Link: https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip )
