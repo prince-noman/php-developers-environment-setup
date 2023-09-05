@@ -13,15 +13,17 @@
 3. Composer ( Download Link: https://getcomposer.org/download/ )
 4. Git ( Download Link: https://git-scm.com/downloads )
 5. Visual Studio Code (Free Code Editor) ( Download Link: https://code.visualstudio.com/download )
-   > Note: As `PHPStorm` is a paid IDE so you can use its 30 Days trial version. After that you can use another email address for the next 30 Days. By repeating this process you can use `PHPStrom` for free when you are in your learning phase.
+
+> Note: As `PHPStorm` is a paid IDE so you can use its 30 Days trial version. After that you can use another email address for the next 30 Days. By repeating this process you can use `PHPStrom` for free when you are in your learning phase.
+
 6. PHPStorm (Paid Code Editor) ( Download Link: https://www.jetbrains.com/phpstorm/download )
 
 ### If you are going to use PHPStorm as your code editor then no need to install any plugin as PHPStorm ships with built-in support for PHP and Laravel.
 
 > ##### Database Client Softwares:
->
-> 7. TablePlus (Database Client) ( Download Link: https://tableplus.com/download )
-> 8. HeidiSQL (Database Client) ( Download Link: https://www.heidisql.com/download.php )
+
+7. TablePlus (Database Client) ( Download Link: https://tableplus.com/download )
+8. HeidiSQL (Database Client) ( Download Link: https://www.heidisql.com/download.php )
 
 > ### VS Code Extensions:
 
