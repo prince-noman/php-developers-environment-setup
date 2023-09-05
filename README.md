@@ -20,10 +20,11 @@
 
 ### If you are going to use PHPStorm as your code editor then no need to install any plugin as PHPStorm ships with built-in support for PHP and Laravel.
 
-> ##### Database Client Softwares:
+> ##### Database Client Softwares:(You can use any of the three)
 
-7. TablePlus (Database Client) ( Download Link: https://tableplus.com/download )
-8. HeidiSQL (Database Client) ( Download Link: https://www.heidisql.com/download.php )
+7. dbForge Studio for MySQL (Database Client) ( Download Link: https://www.devart.com/dbforge/mysql/studio/download.html )
+8. TablePlus (Database Client) ( Download Link: https://tableplus.com/download )
+9. HeidiSQL (Database Client) ( Download Link: https://www.heidisql.com/download.php )
 
 > ### VS Code Extensions:
 
