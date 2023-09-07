@@ -11,6 +11,7 @@
    <br> or, MAMP ( Specially for Mac) ( Download Link: https://www.mamp.info/en/downloads/)
 2. Node.js (LTS version) ( Download Link: https://nodejs.org/en/download/ )
 3. Composer ( Download Link: https://getcomposer.org/download/ )
+   > Composer Installation Guide for Windows `https://www.javatpoint.com/how-to-install-composer-on-windows`
 4. Git ( Download Link: https://git-scm.com/downloads )
 5. Visual Studio Code (Free Code Editor) ( Download Link: https://code.visualstudio.com/download )
 
