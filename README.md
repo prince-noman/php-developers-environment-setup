@@ -10,8 +10,11 @@
 > Note: If you have any php binary file on C drive then delete that.
 
 1. XAMPP ( Download Link: https://www.apachefriends.org/download.html )
+
    > XAMPP Installation Guide for Windows ( https://www.temok.com/blog/xampp-installation-on-windows/ )
-   > <br> or, MAMP ( Specially for Mac) ( Download Link: https://www.mamp.info/en/downloads/)
+
+   <br> or, MAMP ( Specially for Mac) ( Download Link: https://www.mamp.info/en/downloads/)
+
 2. Node.js (LTS version) ( Download Link: https://nodejs.org/en/download/ )
 3. Composer ( Download Link: https://getcomposer.org/download/ )
    > Composer Installation Guide for Windows ( https://www.javatpoint.com/how-to-install-composer-on-windows )
