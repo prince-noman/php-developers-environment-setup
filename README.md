@@ -62,6 +62,10 @@
 | 21     | Prettier - Code formatter                   |
 | 22     | MySQL - Database Client - Weijan Chen       |
 
+#### Various PHP Development Environment Setup Errors' Solution Video
+
+https://youtu.be/sieWJF37cnQ
+
 > ### Fonts for Developers:
 
 1. Operator Mono (Download Link: https://github.com/keyding/Operator-Mono/archive/refs/heads/master.zip )
